@@ -47,7 +47,7 @@ Use [config.xmrig.com](https://config.xmrig.com/proxy) to generate, edit or shar
       --no-color           disable colored output
       --no-workers         disable per worker statistics
       --variant            algorithm PoW variant
-      --donate-level=N     donate level, default 2%
+      --donate-level=N     donate level, default 0%
   -B, --background         run the miner in the background
   -c, --config=FILE        load a JSON-format configuration file
       --no-watch           disable configuration file watching
