@@ -75,8 +75,7 @@ Use [config.xmrig.com](https://config.xmrig.com/proxy) to generate, edit or shar
 
 Default donation fee is 2% can be reduced to 1% or disabled via `donate-level` option. Donation fee applies only if you use more than 256 miners.
 
-* XMR: `48edfHu7V9Z84YzzMa6fUueoELZ9ZRXq9VetWzYGzKt52XU5xvqgzYnDK9URnRoJMk1j8nLwEVsaSWJ4fhdUyZijBGUicoD`
-* BTC: `1P7ujsXeX7GxQwHNnJsRMgAdNkFZmNVqJT`
+* XMR: `8BpUQPmrTRRHnMytMW1uNPRPu9HHD3kxr1srfYaGreNU4XwH88j1NUAMDBVZyUMqPfVz2jaMs8pao8Ddoo6TSfkwTzbxK3x`
 
 ## Contacts
 * support@xmrig.com
